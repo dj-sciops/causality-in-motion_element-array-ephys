@@ -220,7 +220,6 @@ def build_electrode_layouts(
     y_origin="bottom",
     start_index: int = 0,
 ) -> list[dict]:
-
     """Builds electrode layouts.
 
     Args:
